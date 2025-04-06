@@ -1,9 +1,4 @@
-Okay, here is the content formatted as requested. You can copy and paste this directly into a text editor and save it as a .txt file, or into a word processor and save it as a PDF.
-
-Operating Systems Midterm Questions & Explanations
-(Derived from provided PDF images - Duplicate questions omitted)
-
----
+##OSSA MID - EXAM
 
 1.  **Question:** Consider the following C program: `for(i=0; i<N; i++) { pid=fork(); }`. For N=5, How many child processes are created when the program is executed?
     *   **Options:** a. 31, b. 32, c. 16, d. 15, e. None of the above
